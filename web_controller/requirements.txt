@@ -1,0 +1,11 @@
+# SO-101 Web Controller Requirements
+# These are additional dependencies for the web controller
+# The main LeRobot dependencies are already installed via pip install -e ".[feetech]"
+
+# Web Framework
+flask>=2.3.0
+flask-socketio>=5.3.0
+
+# Additional utilities
+python-socketio>=5.8.0
+python-engineio>=4.7.0
